@@ -6,3 +6,4 @@
 ### NVIDIA A100 
 
 ALL result and code are in DnCNN.ipynb file
+dataset(CIFAR-10) will be downloaded autometically while runing this code
